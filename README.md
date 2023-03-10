@@ -7,6 +7,11 @@ Python 3.8.10
 VOICEVOX API(https://github.com/VOICEVOX/voicevox_engine)
 
 # 事前準備
+ライブラリをインストールします
+```
+python -m pip install -r .\requirements-test.txt
+```
+
 OpenAIのアクセストークンを設定しておきます。
 
 ```
