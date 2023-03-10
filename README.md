@@ -9,7 +9,7 @@ VOICEVOX API(https://github.com/VOICEVOX/voicevox_engine)
 # 事前準備
 ライブラリをインストールします
 ```
-python -m pip install -r .\requirements-test.txt
+python -m pip install -r .\requirements.txt
 ```
 
 OpenAIのアクセストークンを設定しておきます。
